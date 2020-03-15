@@ -6,7 +6,6 @@ using namespace std;
 
 int main()
 {
-    string s;
     int num;
     int a, b;
 
