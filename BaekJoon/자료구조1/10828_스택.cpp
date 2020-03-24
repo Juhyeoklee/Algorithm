@@ -60,7 +60,6 @@ int main()
             cout << result << endl;
         }
     }
-    free(a);
     return 0;
 }
 
