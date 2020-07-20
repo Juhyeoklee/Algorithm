@@ -8,7 +8,7 @@ using namespace std;
 bool check[1001];
 typedef vector<int> IntVector;
 
-void bfs(int p, vector<IntVector> v)
+void dfs(int p, vector<IntVector> v)
 {
     stack<int> s;
     s.push(p);
@@ -40,7 +40,7 @@ void bfs(int p, vector<IntVector> v)
     }
     printf("\n");
 }
-void dfs(int p, vector<IntVector> v)
+void bfs(int p, vector<IntVector> v)
 {
     queue<int> q;
     q.push(p);
@@ -87,13 +87,12 @@ int main()
     {
         sort(arr[i].begin(), arr[i].end());
     }
-    bfs(V, arr);
+    dfs(V, arr);
     for (int i = 0; i <= N; i++)
     {
         check[i] = false;
     }
-
-    dfs(V, arr);
+    bfs(V, arr);
 
     return 0;
 }
