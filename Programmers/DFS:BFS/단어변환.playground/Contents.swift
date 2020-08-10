@@ -3,12 +3,10 @@ import Foundation
 var check: [String: Int] = [:]
 var arr: [String: [String]] = [:]
 func solution(_ begin:String, _ target:String, _ words:[String]) -> Int {
-    var newWords = words
-//    newWords.append(target)
-    
+
     check.updateValue(-1, forKey: begin)
     arr.updateValue([], forKey: begin)
-    for word in newWords {
+    for word in words {
         check.updateValue(-1, forKey: word)
         arr.updateValue([], forKey: word)
     }
@@ -16,7 +14,7 @@ func solution(_ begin:String, _ target:String, _ words:[String]) -> Int {
     for (key, _) in arr {
         var value = arr[key]
         
-        for word in newWords {
+        for word in words {
             var difCount = 0
             for i in 0..<key.count {
                 var keyChar = key[key.index(key.startIndex, offsetBy: i)]
@@ -55,8 +53,7 @@ func bfs(start: String){
             }
         }
     }
-    
 }
 
-//solution("hit", "cog", ["hot", "dot", "dog", "lot", "log", "cog"])
-solution("hit", "cog", ["hot", "dot", "dog", "lot", "log"])
+solution("hit", "cog", ["hot", "dot", "dog", "lot", "log", "cog"])
+//solution("hit", "cog", ["hot", "dot", "dog", "lot", "log"])
