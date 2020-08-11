@@ -18,6 +18,7 @@ class Node {
 var preOder: [Int] = []
 var postOrder: [Int] = []
 var tree: [[Node]] = []
+
 func solution(_ nodeinfo:[[Int]]) -> [[Int]] {
     
     var curHeight = nodeinfo.sorted { (n1, n2) in
