@@ -16,7 +16,6 @@ func solution(_ number:String, _ k:Int) -> String {
             numArr.removeLast()
         }
         numArr.append("\(s)")
-        
     }
     var answer: String = ""
     
