@@ -27,6 +27,7 @@ func solution(_ N:Int, _ road:[[Int]], _ k:Int) -> Int {
 
             }
             q.removeFirst()
+            print(check)
         }
     }
     
