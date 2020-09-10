@@ -48,13 +48,7 @@ func solution(_ record:[String]) -> [String] {
             return nil
         }
     }
-//    print(actions)
-//    print(users)
-//    print(actions.compactMap {
-//
-//        return "\(users[$0.uid]!)님이 " + $0.sentence!
-//    })
-    
+    print(actions)
     return actions.compactMap {
         return "\(users[$0.uid]!)님이 " + $0.sentence!
     }
