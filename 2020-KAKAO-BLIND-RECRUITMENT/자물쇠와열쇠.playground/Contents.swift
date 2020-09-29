@@ -10,15 +10,7 @@ func solution(_ key:[[Int]], _ lock:[[Int]]) -> Bool {
             bigArr[key.count + i][key[0].count + j] = lock[i][j]
         }
     }
-
-//    for i in 0..<bigArr.count {
-//        for j in 0..<bigArr[0].count {
-//            print(bigArr[i][j], terminator: " ")
-//        }
-//        print()
-//    }
-//
-
+    
     for _ in 0...3 {
         newArr = turnArr(newArr)
         
@@ -40,10 +32,6 @@ func solution(_ key:[[Int]], _ lock:[[Int]]) -> Bool {
                     for l in 0..<newArr[0].count {
                         bigArr[i + k][j + l] = newArr[k][l] + bigArr[i + k][j + l]
                         
-//                        print(bigArr[i+k][j + l], terminator: " ")
-//                        print()
-//                        print(newArr[k][l])
-//                        print(i, j, separator: " " )
                         if bigArr[i + k][j + l] == 2 {
                             result = false
                             break
@@ -53,13 +41,7 @@ func solution(_ key:[[Int]], _ lock:[[Int]]) -> Bool {
                         break
                     }
                 }
-//                for i in 0..<bigArr.count {
-//                    for j in 0..<bigArr[0].count {
-//                        print(bigArr[i][j], terminator: " ")
-//                    }
-//                    print()
-//                }
-//                print()
+                
                 if !result {
                     continue
                 }
