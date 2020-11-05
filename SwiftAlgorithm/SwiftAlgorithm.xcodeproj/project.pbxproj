@@ -27,6 +27,7 @@
 		7FC1B66225527D46009140A1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		7FC1B66A25527D6C009140A1 /* BOJ11723.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ11723.swift; sourceTree = "<group>"; };
 		7FC1B66E255286E3009140A1 /* BOJ17413.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ17413.swift; sourceTree = "<group>"; };
+		7FC1B6722553C5AF009140A1 /* BOJ1260.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ1260.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				7FC1B66225527D46009140A1 /* main.swift */,
+				7FC1B6722553C5AF009140A1 /* BOJ1260.swift */,
 				7FC1B66E255286E3009140A1 /* BOJ17413.swift */,
 				7FC1B66A25527D6C009140A1 /* BOJ11723.swift */,
 			);
