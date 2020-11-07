@@ -1,8 +1,8 @@
 //
-//  main.swift
+//  BOJ2178.swift
 //  SwiftAlgorithm
 //
-//  Created by 이주혁 on 2020/11/04.
+//  Created by 이주혁 on 2020/11/07.
 //
 
 import Foundation
@@ -12,7 +12,6 @@ struct CurPosition{
     var col: Int
     var length: Int
 }
-
 
 func bfs(start: CurPosition) {
     var queue: [CurPosition] = [start]
@@ -78,5 +77,3 @@ for i in 0..<N {
 }
 
 bfs(start: CurPosition(row: 0, col: 0, length: 0))
-
-
