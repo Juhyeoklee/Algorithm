@@ -32,6 +32,7 @@
 		7FC1B6722553C5AF009140A1 /* BOJ1260.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ1260.swift; sourceTree = "<group>"; };
 		7FC1B6F02556EA74009140A1 /* BOJ2178.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ2178.swift; sourceTree = "<group>"; };
 		7FC1B6F42557B244009140A1 /* BOJ1149.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ1149.swift; sourceTree = "<group>"; };
+		7FFD9E2D2563AA5800A8D10E /* PG12905.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PG12905.swift; sourceTree = "<group>"; };
 		7FFEC44C255A6B1B000C77C0 /* BOJ1874.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ1874.swift; sourceTree = "<group>"; };
 		7FFEC451255BC0FD000C77C0 /* BOJ1966.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ1966.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -73,6 +74,7 @@
 				7FFEC44C255A6B1B000C77C0 /* BOJ1874.swift */,
 				7FC1B6F42557B244009140A1 /* BOJ1149.swift */,
 				7FC1B6F02556EA74009140A1 /* BOJ2178.swift */,
+				7FFD9E2D2563AA5800A8D10E /* PG12905.swift */,
 				7FC1B6722553C5AF009140A1 /* BOJ1260.swift */,
 				7FC1B66E255286E3009140A1 /* BOJ17413.swift */,
 				7FC1B66A25527D6C009140A1 /* BOJ11723.swift */,
