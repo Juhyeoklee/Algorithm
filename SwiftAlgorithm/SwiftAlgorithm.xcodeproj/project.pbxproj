@@ -24,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		7F32221E256E1D080007D482 /* BOJ10974.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ10974.swift; sourceTree = "<group>"; };
+		7F32222F256ECA920007D482 /* PG70129.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PG70129.swift; sourceTree = "<group>"; };
 		7F5C516A256251B90021A1D8 /* BOJ10973.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ10973.swift; sourceTree = "<group>"; };
 		7FBFAB78255902FF0079FAC5 /* BOJ10972.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ10972.swift; sourceTree = "<group>"; };
 		7FC1B65F25527D46009140A1 /* SwiftAlgorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftAlgorithm; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -77,6 +78,7 @@
 				7FBFAB78255902FF0079FAC5 /* BOJ10972.swift */,
 				7FFEC44C255A6B1B000C77C0 /* BOJ1874.swift */,
 				7FC1B6F42557B244009140A1 /* BOJ1149.swift */,
+				7F32222F256ECA920007D482 /* PG70129.swift */,
 				7FC1B6F02556EA74009140A1 /* BOJ2178.swift */,
 				7FFD9E2D2563AA5800A8D10E /* PG12905.swift */,
 				7FC1B6722553C5AF009140A1 /* BOJ1260.swift */,
