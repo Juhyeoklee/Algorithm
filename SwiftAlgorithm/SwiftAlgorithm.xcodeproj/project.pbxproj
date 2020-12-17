@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7F450B65258A2041000EDA1A /* PG-42748.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F450B64258A2041000EDA1A /* PG-42748.swift */; };
 		7FA927EE25890F6900A356AD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FC1B66225527D46009140A1 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -35,6 +34,7 @@
 		7FAF4E4E2589DB3F006A0E5B /* PG-42840.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-42840.swift"; sourceTree = "<group>"; };
 		7FBDBFC3258A634B00AE6D7B /* PG-12901.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-12901.swift"; sourceTree = "<group>"; };
 		7FBDBFC8258A675C00AE6D7B /* Two-Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Two-Sum.swift"; sourceTree = "<group>"; };
+		7FBDBFCF258B24BA00AE6D7B /* PG-12903.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-12903.swift"; sourceTree = "<group>"; };
 		7FBFAB78255902FF0079FAC5 /* BOJ10972.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ10972.swift; sourceTree = "<group>"; };
 		7FC1B65F25527D46009140A1 /* SwiftAlgorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftAlgorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FC1B66225527D46009140A1 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -67,6 +67,7 @@
 				7FAF4E4E2589DB3F006A0E5B /* PG-42840.swift */,
 				7F450B64258A2041000EDA1A /* PG-42748.swift */,
 				7FBDBFC3258A634B00AE6D7B /* PG-12901.swift */,
+				7FBDBFCF258B24BA00AE6D7B /* PG-12903.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -186,7 +187,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7F450B65258A2041000EDA1A /* PG-42748.swift in Sources */,
 				7FA927EE25890F6900A356AD /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
