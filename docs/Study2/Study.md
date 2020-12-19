@@ -11,3 +11,4 @@
 |    Goorm     |     약수 구하기      | 2020-12-18 |   [소스](../../SwiftAlgorithm/SwiftAlgorithm/Goorm/약수구하기.swift)   |   [링크](https://level.goorm.io/exam/43255/약수-구하기/quiz/1)   |
 | 프로그래머스 |  두 정수 사이의 합   | 2020-12-19 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-12912.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/12912) |
 |    Goorm     |       놀이공원       | 2020-12-19 |    [소스](../../SwiftAlgorithm/SwiftAlgorithm/Goorm/놀이공원.swift)    |    [링크](https://level.goorm.io/exam/88520/놀이공원/quiz/1)     |
+|    Goorm     |      소수 판별       | 2020-12-19 |    [소스](../../SwiftAlgorithm/SwiftAlgorithm/Goorm/소수판별.swift)    |    [링크](https://level.goorm.io/exam/43238/소수-판별/quiz/1)    |
