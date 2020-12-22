@@ -14,4 +14,5 @@
 |    Goorm     |         소수 판별         | 2020-12-19 |    [소스](../../SwiftAlgorithm/SwiftAlgorithm/Goorm/소수판별.swift)    |    [링크](https://level.goorm.io/exam/43238/소수-판별/quiz/1)    |
 | 프로그래머스 |         네트워크          | 2020-12-21 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-43162.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/43162) |
 | 프로그래머스 |       멀쩡한 사각형       | 2020-12-21 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-62048.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/62048) |
-| 프로그래머스 | 나누어 떨어지는 숫자 배열 | 2020-12-21 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-12910.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/12910) |
+| 프로그래머스 | 나누어 떨어지는 숫자 배열 | 2020-12-22 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-12910.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/12910) |
+| 프로그래머스 |  문자열 내 p와 y의 개수   | 2020-12-22 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-12916.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/12916) |
