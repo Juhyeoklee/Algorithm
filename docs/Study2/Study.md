@@ -22,3 +22,4 @@
 | 프로그래머스 |           내적            | 2020-12-23 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-70128.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/70128) |
 | 프로그래머스 |           예산            | 2020-12-23 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-12982.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/12982) |
 | 프로그래머스 |     [1차] 추석 트래픽     | 2020-12-24 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-17676.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/17676) |
+| 프로그래머스 |   쿼드압축 후 개수 세기   | 2020-12-25 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-68936.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/68936) |
