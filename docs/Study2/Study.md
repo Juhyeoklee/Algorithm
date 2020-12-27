@@ -25,3 +25,4 @@
 | 프로그래머스 |   쿼드압축 후 개수 세기   | 2020-12-25 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-68936.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/68936) |
 | 프로그래머스 |        올바른 괄호        | 2020-12-26 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-12909.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/12909) |
 | 프로그래머스 |        섬 연결하기        | 2020-12-28 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-42861.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/42861) |
+| 프로그래머스 |        콜라츠 추측        | 2020-12-28 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-12943.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/12943) |
