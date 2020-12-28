@@ -27,3 +27,4 @@
 | 프로그래머스 |        섬 연결하기        | 2020-12-28 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-42861.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/42861) |
 | 프로그래머스 |        콜라츠 추측        | 2020-12-28 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-12943.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/12943) |
 | 프로그래머스 |     [1차] 프렌즈4블록     | 2020-12-29 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-17679.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/17679) |
+| 프로그래머스 |         입국심사          | 2020-12-29 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-43238.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/43238) |
