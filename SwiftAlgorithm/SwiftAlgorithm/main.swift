@@ -7,7 +7,7 @@
 
 
 
-func printArr(_ arr: [[String]]) {
+func print2DArr(_ arr: [[String]]) {
     for a in arr {
         for s in a {
             print(s, terminator: " ")

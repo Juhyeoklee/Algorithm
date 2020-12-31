@@ -29,3 +29,4 @@
 | 프로그래머스 |     [1차] 프렌즈4블록     | 2020-12-29 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-17679.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/17679) |
 | 프로그래머스 |         입국심사          | 2020-12-29 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-43238.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/43238) |
 | 프로그래머스 |        [1처] 캐시         | 2020-12-30 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-17680.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/17680) |
+| 프로그래머스 |   [1차] 뉴스 클러스터링   | 2021-01-01 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-17677.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/17677) |
