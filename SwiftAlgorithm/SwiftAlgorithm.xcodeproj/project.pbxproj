@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7FA927EE25890F6900A356AD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FC1B66225527D46009140A1 /* main.swift */; };
+		7FFD86BA259FA563007DB577 /* PG-12985.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FFD86B9259FA563007DB577 /* PG-12985.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -65,6 +66,7 @@
 		7FF1442E258FBA9D0069095F /* PG-62048.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-62048.swift"; sourceTree = "<group>"; };
 		7FFD86B1259BC4F7007DB577 /* PG-17680.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-17680.swift"; sourceTree = "<group>"; };
 		7FFD86B5259E5CAB007DB577 /* PG-17677.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-17677.swift"; sourceTree = "<group>"; };
+		7FFD86B9259FA563007DB577 /* PG-12985.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-12985.swift"; sourceTree = "<group>"; };
 		7FFD9E2D2563AA5800A8D10E /* PG12905.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PG12905.swift; sourceTree = "<group>"; };
 		7FFD9E5C2565769200A8D10E /* BOJ2839.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ2839.swift; sourceTree = "<group>"; };
 		7FFEC44C255A6B1B000C77C0 /* BOJ1874.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ1874.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				7F09A973259A0F7B001C53F2 /* PG-17679.swift */,
 				7FFD86B1259BC4F7007DB577 /* PG-17680.swift */,
 				7FFD86B5259E5CAB007DB577 /* PG-17677.swift */,
+				7FFD86B9259FA563007DB577 /* PG-12985.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -239,6 +242,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7FFD86BA259FA563007DB577 /* PG-12985.swift in Sources */,
 				7FA927EE25890F6900A356AD /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
