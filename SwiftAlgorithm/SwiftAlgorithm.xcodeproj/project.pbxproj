@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7FA927EE25890F6900A356AD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FC1B66225527D46009140A1 /* main.swift */; };
+		7FCD71F125A20A94005AB391 /* PG70129.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F32222F256ECA920007D482 /* PG70129.swift */; };
 		7FFD86BA259FA563007DB577 /* PG-12985.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FFD86B9259FA563007DB577 /* PG-12985.swift */; };
 /* End PBXBuildFile section */
 
@@ -37,7 +38,7 @@
 		7F322234257137EC0007D482 /* BOJ14501.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ14501.swift; sourceTree = "<group>"; };
 		7F32224F257270060007D482 /* BOJ1629.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ1629.swift; sourceTree = "<group>"; };
 		7F450B64258A2041000EDA1A /* PG-42748.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-42748.swift"; sourceTree = "<group>"; };
-		7F5C516A256251B90021A1D8 /* BOJ10973.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ10973.swift; sourceTree = "<group>"; };
+		7F5C516A256251B90021A1D8 /* BOJ10973.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = BOJ10973.swift; path = SwiftAlgorithm/BOJ/BOJ10973.swift; sourceTree = SOURCE_ROOT; };
 		7F5FA63D2573D5830052064A /* BOJ2502.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ2502.swift; sourceTree = "<group>"; };
 		7F6967902594DB4300491DDE /* PG-17676.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-17676.swift"; sourceTree = "<group>"; };
 		7F696793259506E300491DDE /* PG-68936.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-68936.swift"; sourceTree = "<group>"; };
@@ -89,6 +90,7 @@
 		7FA927E625890ECB00A356AD /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
+				7F32222F256ECA920007D482 /* PG70129.swift */,
 				7FA927E825890F0400A356AD /* PG-68644.swift */,
 				7FAF4E4E2589DB3F006A0E5B /* PG-42840.swift */,
 				7F450B64258A2041000EDA1A /* PG-42748.swift */,
@@ -123,6 +125,21 @@
 			isa = PBXGroup;
 			children = (
 				7FFD86C025A206BF007DB577 /* BOJ-1722.swift */,
+				7F5FA63D2573D5830052064A /* BOJ2502.swift */,
+				7F322234257137EC0007D482 /* BOJ14501.swift */,
+				7F5C516A256251B90021A1D8 /* BOJ10973.swift */,
+				7F32221E256E1D080007D482 /* BOJ10974.swift */,
+				7FFD9E5C2565769200A8D10E /* BOJ2839.swift */,
+				7FFEC451255BC0FD000C77C0 /* BOJ1966.swift */,
+				7FC1B6F02556EA74009140A1 /* BOJ2178.swift */,
+				7FBFAB78255902FF0079FAC5 /* BOJ10972.swift */,
+				7FC1B6722553C5AF009140A1 /* BOJ1260.swift */,
+				7FFEC44C255A6B1B000C77C0 /* BOJ1874.swift */,
+				7FFD9E2D2563AA5800A8D10E /* PG12905.swift */,
+				7FC1B66A25527D6C009140A1 /* BOJ11723.swift */,
+				7FC1B66E255286E3009140A1 /* BOJ17413.swift */,
+				7FC1B6F42557B244009140A1 /* BOJ1149.swift */,
+				7F32224F257270060007D482 /* BOJ1629.swift */,
 			);
 			path = BOJ;
 			sourceTree = "<group>";
@@ -169,22 +186,6 @@
 				7FA927E725890EE000A356AD /* BOJ */,
 				7FA927E625890ECB00A356AD /* Programmers */,
 				7FC1B66225527D46009140A1 /* main.swift */,
-				7F5FA63D2573D5830052064A /* BOJ2502.swift */,
-				7F322234257137EC0007D482 /* BOJ14501.swift */,
-				7F32224F257270060007D482 /* BOJ1629.swift */,
-				7F32221E256E1D080007D482 /* BOJ10974.swift */,
-				7FFD9E5C2565769200A8D10E /* BOJ2839.swift */,
-				7F5C516A256251B90021A1D8 /* BOJ10973.swift */,
-				7FFEC451255BC0FD000C77C0 /* BOJ1966.swift */,
-				7FBFAB78255902FF0079FAC5 /* BOJ10972.swift */,
-				7FFEC44C255A6B1B000C77C0 /* BOJ1874.swift */,
-				7FC1B6F42557B244009140A1 /* BOJ1149.swift */,
-				7F32222F256ECA920007D482 /* PG70129.swift */,
-				7FC1B6F02556EA74009140A1 /* BOJ2178.swift */,
-				7FFD9E2D2563AA5800A8D10E /* PG12905.swift */,
-				7FC1B6722553C5AF009140A1 /* BOJ1260.swift */,
-				7FC1B66E255286E3009140A1 /* BOJ17413.swift */,
-				7FC1B66A25527D6C009140A1 /* BOJ11723.swift */,
 			);
 			path = SwiftAlgorithm;
 			sourceTree = "<group>";
@@ -247,6 +248,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7FFD86BA259FA563007DB577 /* PG-12985.swift in Sources */,
+				7FCD71F125A20A94005AB391 /* PG70129.swift in Sources */,
 				7FA927EE25890F6900A356AD /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
