@@ -32,4 +32,4 @@
 | 프로그래머스 |   [1차] 뉴스 클러스터링   | 2021-01-01 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-17677.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/17677) |
 | 프로그래머스 |        예상 대진표        | 2021-01-02 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-12985.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/12985) |
 | 프로그래머스 |      짝지어 제거하기      | 2021-01-02 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-12973.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/12973) |
-|     BOJ      |        순열의 순서        | 2021-01-02 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-1722.swift)     |           [링크](https://www.acmicpc.net/problem/1722)           | 수학, 조합론 |
+|     BOJ      |        순열의 순서        | 2021-01-03 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-1722.swift)     |           [링크](https://www.acmicpc.net/problem/1722)           | 수학, 조합론 |
