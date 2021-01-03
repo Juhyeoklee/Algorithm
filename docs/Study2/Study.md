@@ -1,7 +1,7 @@
 # 📌 Algorithm Study Season 2
 
-|  문제 구분   |         문제이름          |    날짜    |                                  소스                                  |                               링크                               |
-| :----------: | :-----------------------: | :--------: | :--------------------------------------------------------------------: | :--------------------------------------------------------------: |
+|  문제 구분   |         문제이름          |    날짜    |                                  소스                                  |                               링크                               | 분류         |
+| :----------: | :-----------------------: | :--------: | :--------------------------------------------------------------------: | :--------------------------------------------------------------: | ------------ |
 | 프로그래머스 |    두 개 뽀아서 더하기    | 2020-12-16 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-68644.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/68644) |
 | 프로그래머스 |         모의고사          | 2020-12-16 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-42840.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/42840) |
 | 프로그래머스 |         K번째 수          | 2020-12-16 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-42748.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/42748) |
@@ -32,3 +32,4 @@
 | 프로그래머스 |   [1차] 뉴스 클러스터링   | 2021-01-01 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-17677.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/17677) |
 | 프로그래머스 |        예상 대진표        | 2021-01-02 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-12985.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/12985) |
 | 프로그래머스 |      짝지어 제거하기      | 2021-01-02 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-12973.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/12973) |
+|     BOJ      |        순열의 순서        | 2021-01-02 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-1722.swift)     |           [링크](https://www.acmicpc.net/problem/1722)           | 수학, 조합론 |
