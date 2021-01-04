@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		7FA927EE25890F6900A356AD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FC1B66225527D46009140A1 /* main.swift */; };
 		7FCD71F125A20A94005AB391 /* PG70129.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F32222F256ECA920007D482 /* PG70129.swift */; };
+		7FE4D01525A30B1A001A765E /* BOJ-1476.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FE4D01425A30B1A001A765E /* BOJ-1476.swift */; };
 		7FFD86BA259FA563007DB577 /* PG-12985.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FFD86B9259FA563007DB577 /* PG-12985.swift */; };
 /* End PBXBuildFile section */
 
@@ -63,6 +64,7 @@
 		7FC1B6F02556EA74009140A1 /* BOJ2178.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ2178.swift; sourceTree = "<group>"; };
 		7FC1B6F42557B244009140A1 /* BOJ1149.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ1149.swift; sourceTree = "<group>"; };
 		7FE2C8C22591E74D00F2A4D7 /* PG-12910.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-12910.swift"; sourceTree = "<group>"; };
+		7FE4D01425A30B1A001A765E /* BOJ-1476.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1476.swift"; sourceTree = "<group>"; };
 		7FF1442A258F8D280069095F /* PG-43162.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-43162.swift"; sourceTree = "<group>"; };
 		7FF1442E258FBA9D0069095F /* PG-62048.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-62048.swift"; sourceTree = "<group>"; };
 		7FFD86B1259BC4F7007DB577 /* PG-17680.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-17680.swift"; sourceTree = "<group>"; };
@@ -140,6 +142,7 @@
 				7FC1B66E255286E3009140A1 /* BOJ17413.swift */,
 				7FC1B6F42557B244009140A1 /* BOJ1149.swift */,
 				7F32224F257270060007D482 /* BOJ1629.swift */,
+				7FE4D01425A30B1A001A765E /* BOJ-1476.swift */,
 			);
 			path = BOJ;
 			sourceTree = "<group>";
@@ -250,6 +253,7 @@
 				7FFD86BA259FA563007DB577 /* PG-12985.swift in Sources */,
 				7FCD71F125A20A94005AB391 /* PG70129.swift in Sources */,
 				7FA927EE25890F6900A356AD /* main.swift in Sources */,
+				7FE4D01525A30B1A001A765E /* BOJ-1476.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
