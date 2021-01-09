@@ -16,12 +16,16 @@ if M > 0 {
 }
 
 func solution() {
+    // 디폴트 채널 번호인 100 번에서 단순 움직임을 계산했을 때를 최소 개수로 잡는다.
     var least = abs(N - 100)
+    
+    // 가능한 채널을 모두 검사
     for channel in 0...1_000_000 {
         
         let tmp = "\(channel)".map { return Int("\($0)")! }
         var isSelect = true
         
+        // 선택할 수 있는 번호인지 체크
         for num in tmp {
             if check[num] {
                 isSelect = false
@@ -30,6 +34,7 @@ func solution() {
         }
         
         if isSelect {
+            // 움직임 수를 계산하여 최소값을 구한다.
             let moveCount = abs(N - channel) + "\(channel)".count
             
             if least > moveCount {
