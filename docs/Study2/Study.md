@@ -35,4 +35,5 @@
 |     BOJ      |        순열의 순서        | 2021-01-03 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-1722.swift)     |           [링크](https://www.acmicpc.net/problem/1722)           | 수학, 조합론 |
 |     BOJ      |         날짜 계산         | 2021-01-04 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-1476.swift)     |           [링크](https://www.acmicpc.net/problem/1476)           | 수학, 정수론 |
 | 프로그래머스 |      시저 암호      | 2021-01-06 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-12926.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/12926) 
-| 프로그래머스 |      하샤드 수      | 2021-01-06 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-12947.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/12947) |
+| 프로그래머스 |      하샤드 수      | 2021-01-07 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-12947.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/12947) |
+|     BOJ      |         리모컨         | 2021-01-10 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-1107.swift)     |           [링크](https://www.acmicpc.net/problem/1107)           | Brute-Force |
