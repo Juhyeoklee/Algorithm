@@ -7,12 +7,3 @@
 
 
 
-func print2DArr(_ arr: [[String]]) {
-    for a in arr {
-        for s in a {
-            print(s, terminator: " ")
-        }
-        print()
-    }
-    print()
-}
