@@ -77,6 +77,7 @@
 		A29E04B125A753C000487088 /* PG-12947.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-12947.swift"; sourceTree = "<group>"; };
 		A29E04B625AA132500487088 /* BOJ-1107.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1107.swift"; sourceTree = "<group>"; };
 		A2BE053C25AB5D25009909DB /* BOJ-9095.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-9095.swift"; sourceTree = "<group>"; };
+		A2BE054025AD1AE2009909DB /* BOJ-10819.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10819.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +149,7 @@
 				7FE4D01425A30B1A001A765E /* BOJ-1476.swift */,
 				A29E04B625AA132500487088 /* BOJ-1107.swift */,
 				A2BE053C25AB5D25009909DB /* BOJ-9095.swift */,
+				A2BE054025AD1AE2009909DB /* BOJ-10819.swift */,
 			);
 			path = BOJ;
 			sourceTree = "<group>";
