@@ -39,3 +39,4 @@
 |     BOJ      |         리모컨         | 2021-01-10 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-1107.swift)     |           [링크](https://www.acmicpc.net/problem/1107)           | Brute-Force |
 |     BOJ      |         1, 2, 3 더하기         | 2021-01-11 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-9095.swift)     |           [링크](https://www.acmicpc.net/problem/9095)           | DP |
 |     BOJ      |         차이를 최대로         | 2021-01-12 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-10819.swift)     |           [링크](https://www.acmicpc.net/problem/10819)           | Brute-Force, Backtracking |
+|     BOJ      |         외판원 순회 2         | 2021-01-14 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-10971.swift)     |           [링크](https://www.acmicpc.net/problem/10971)           | Backtracking, TSP |
