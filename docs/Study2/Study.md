@@ -41,3 +41,4 @@
 |     BOJ      |         차이를 최대로         | 2021-01-12 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-10819.swift)     |           [링크](https://www.acmicpc.net/problem/10819)           | Brute-Force, Backtracking |
 |     BOJ      |         외판원 순회 2         | 2021-01-14 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-10971.swift)     |           [링크](https://www.acmicpc.net/problem/10971)           | Backtracking, TSP |
 |     BOJ      |         로또         | 2021-01-18 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-6603.swift)     |           [링크](https://www.acmicpc.net/problem/6603)           | 조합론, Backtracking, 재귀 |
+|     BOJ      |         숨바꼭질         | 2021-01-20 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-1697.swift)     |           [링크](https://www.acmicpc.net/problem/1697)           | 그래프 탐색, 너비우선탐색 |
