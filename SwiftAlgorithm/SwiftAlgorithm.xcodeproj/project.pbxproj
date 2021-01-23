@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7FA927EE25890F6900A356AD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FC1B66225527D46009140A1 /* main.swift */; };
-		A2381DE425B9C80700B2D36B /* BOJ-1963.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2381DE325B9C80700B2D36B /* BOJ-1963.swift */; };
+		A2381DEC25BC249D00B2D36B /* BOJ-1525.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2381DEB25BC249D00B2D36B /* BOJ-1525.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -76,6 +76,8 @@
 		7FFEC451255BC0FD000C77C0 /* BOJ1966.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ1966.swift; sourceTree = "<group>"; };
 		A2381DDF25B8148400B2D36B /* BOJ-1697.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1697.swift"; sourceTree = "<group>"; };
 		A2381DE325B9C80700B2D36B /* BOJ-1963.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1963.swift"; sourceTree = "<group>"; };
+		A2381DE725BC0D1F00B2D36B /* BOJ-9019.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-9019.swift"; sourceTree = "<group>"; };
+		A2381DEB25BC249D00B2D36B /* BOJ-1525.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1525.swift"; sourceTree = "<group>"; };
 		A285C53A25B45E58007E7AAF /* BOJ-6603.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-6603.swift"; sourceTree = "<group>"; };
 		A29E04AD25A6037B00487088 /* PG-12926.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-12926.swift"; sourceTree = "<group>"; };
 		A29E04B125A753C000487088 /* PG-12947.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-12947.swift"; sourceTree = "<group>"; };
@@ -159,6 +161,8 @@
 				A285C53A25B45E58007E7AAF /* BOJ-6603.swift */,
 				A2381DDF25B8148400B2D36B /* BOJ-1697.swift */,
 				A2381DE325B9C80700B2D36B /* BOJ-1963.swift */,
+				A2381DE725BC0D1F00B2D36B /* BOJ-9019.swift */,
+				A2381DEB25BC249D00B2D36B /* BOJ-1525.swift */,
 			);
 			path = BOJ;
 			sourceTree = "<group>";
@@ -266,7 +270,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A2381DE425B9C80700B2D36B /* BOJ-1963.swift in Sources */,
+				A2381DEC25BC249D00B2D36B /* BOJ-1525.swift in Sources */,
 				7FA927EE25890F6900A356AD /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
