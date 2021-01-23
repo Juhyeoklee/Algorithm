@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		7FA927EE25890F6900A356AD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FC1B66225527D46009140A1 /* main.swift */; };
-		A2381DEC25BC249D00B2D36B /* BOJ-1525.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2381DEB25BC249D00B2D36B /* BOJ-1525.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -78,6 +77,7 @@
 		A2381DE325B9C80700B2D36B /* BOJ-1963.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1963.swift"; sourceTree = "<group>"; };
 		A2381DE725BC0D1F00B2D36B /* BOJ-9019.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-9019.swift"; sourceTree = "<group>"; };
 		A2381DEB25BC249D00B2D36B /* BOJ-1525.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1525.swift"; sourceTree = "<group>"; };
+		A2381DEF25BC258900B2D36B /* PG-12919.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-12919.swift"; sourceTree = "<group>"; };
 		A285C53A25B45E58007E7AAF /* BOJ-6603.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-6603.swift"; sourceTree = "<group>"; };
 		A29E04AD25A6037B00487088 /* PG-12926.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-12926.swift"; sourceTree = "<group>"; };
 		A29E04B125A753C000487088 /* PG-12947.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-12947.swift"; sourceTree = "<group>"; };
@@ -130,6 +130,7 @@
 				7FFD86BC25A03EC9007DB577 /* PG-12973.swift */,
 				A29E04AD25A6037B00487088 /* PG-12926.swift */,
 				A29E04B125A753C000487088 /* PG-12947.swift */,
+				A2381DEF25BC258900B2D36B /* PG-12919.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -270,7 +271,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A2381DEC25BC249D00B2D36B /* BOJ-1525.swift in Sources */,
 				7FA927EE25890F6900A356AD /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
