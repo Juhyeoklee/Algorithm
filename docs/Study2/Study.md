@@ -43,4 +43,5 @@
 |     BOJ      |         로또         | 2021-01-18 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-6603.swift)     |           [링크](https://www.acmicpc.net/problem/6603)           | 조합론, Backtracking, 재귀 |
 |     BOJ      |         숨바꼭질         | 2021-01-20 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-1697.swift)     |           [링크](https://www.acmicpc.net/problem/1697)           | 그래프 탐색, BFS |
 |     BOJ      |         소수 경로         | 2021-01-21 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-1963.swift)     |           [링크](https://www.acmicpc.net/problem/1963)           | 그래프 탐색, BFS,소수 판정 |
-| 프로그래머스 |      서울에서 김서방 찾기      | 2021-01-07 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-12919.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/12919) |
+| 프로그래머스 |      서울에서 김서방 찾기      | 2021-01-23 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-12919.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/12919) |
+|     BOJ      |         물통         | 2021-01-26 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-2251.swift)     |           [링크](https://www.acmicpc.net/problem/2251)           | 그래프 탐색, BFS |
