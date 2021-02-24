@@ -49,3 +49,4 @@
 |     BOJ      |         암호 만들기         | 2021-01-29 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-1759.swift)     |           [링크](https://www.acmicpc.net/problem/1759)           | Brute-Force |
 | 프로그래머스 |        신규 아이디 추천        | 2021-01-30 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-72410.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/72410) | 2021 KAKAO BLIND RECRUITMENT|
 | 프로그래머스 |        메뉴 리뉴얼        | 2021-02-25 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-72411.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/72411) | 2021 KAKAO BLIND RECRUITMENT|
+|     BOJ      |         N-Queen         | 2021-02-25 |     [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-9663.swift)     |           [링크](https://www.acmicpc.net/problem/9663)           | Brute-Force, Backtracking |
