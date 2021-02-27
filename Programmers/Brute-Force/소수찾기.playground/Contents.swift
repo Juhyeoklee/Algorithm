@@ -63,7 +63,7 @@ func makem(num: String, dic: [String:Int], nums: [String]) -> Set<Int> {
                 
             }
         }
-        
+        print(queue)
     }
     let answer = queue.map({ (s) -> String in
         return s.filter {
@@ -101,4 +101,6 @@ func isPrime(num: Int) -> Bool {
     return answer
 }
 
-solution("5111048")
+//solution("5111048")
+solution("17")
+
