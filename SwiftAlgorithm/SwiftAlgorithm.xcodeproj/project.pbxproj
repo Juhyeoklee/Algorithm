@@ -11,6 +11,8 @@
 		A213AC4B25EC2AD2009B9048 /* LEET-1111.swift in Sources */ = {isa = PBXBuildFile; fileRef = A293957225EAC0D200C0F519 /* LEET-1111.swift */; };
 		A213AC4D25EC2ADC009B9048 /* LEET-1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FBDBFC8258A675C00AE6D7B /* LEET-1.swift */; };
 		A213AC5025EC2D59009B9048 /* LEET-1773.swift in Sources */ = {isa = PBXBuildFile; fileRef = A213AC4F25EC2D59009B9048 /* LEET-1773.swift */; };
+		A213AC5325EC328A009B9048 /* LEET-1480.swift in Sources */ = {isa = PBXBuildFile; fileRef = A213AC5225EC328A009B9048 /* LEET-1480.swift */; };
+		A213AC5625EC3532009B9048 /* LEET-1108.swift in Sources */ = {isa = PBXBuildFile; fileRef = A213AC5525EC3532009B9048 /* LEET-1108.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -77,6 +79,8 @@
 		7FFEC44C255A6B1B000C77C0 /* BOJ1874.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ1874.swift; sourceTree = "<group>"; };
 		7FFEC451255BC0FD000C77C0 /* BOJ1966.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ1966.swift; sourceTree = "<group>"; };
 		A213AC4F25EC2D59009B9048 /* LEET-1773.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LEET-1773.swift"; sourceTree = "<group>"; };
+		A213AC5225EC328A009B9048 /* LEET-1480.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LEET-1480.swift"; sourceTree = "<group>"; };
+		A213AC5525EC3532009B9048 /* LEET-1108.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LEET-1108.swift"; sourceTree = "<group>"; };
 		A2381DDF25B8148400B2D36B /* BOJ-1697.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1697.swift"; sourceTree = "<group>"; };
 		A2381DE325B9C80700B2D36B /* BOJ-1963.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1963.swift"; sourceTree = "<group>"; };
 		A2381DE725BC0D1F00B2D36B /* BOJ-9019.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-9019.swift"; sourceTree = "<group>"; };
@@ -197,6 +201,8 @@
 				7FBDBFC8258A675C00AE6D7B /* LEET-1.swift */,
 				A293957225EAC0D200C0F519 /* LEET-1111.swift */,
 				A213AC4F25EC2D59009B9048 /* LEET-1773.swift */,
+				A213AC5225EC328A009B9048 /* LEET-1480.swift */,
+				A213AC5525EC3532009B9048 /* LEET-1108.swift */,
 			);
 			path = Leet;
 			sourceTree = "<group>";
@@ -296,8 +302,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A213AC5325EC328A009B9048 /* LEET-1480.swift in Sources */,
 				A213AC4D25EC2ADC009B9048 /* LEET-1.swift in Sources */,
 				7FA927EE25890F6900A356AD /* main.swift in Sources */,
+				A213AC5625EC3532009B9048 /* LEET-1108.swift in Sources */,
 				A213AC4B25EC2AD2009B9048 /* LEET-1111.swift in Sources */,
 				A213AC5025EC2D59009B9048 /* LEET-1773.swift in Sources */,
 			);
