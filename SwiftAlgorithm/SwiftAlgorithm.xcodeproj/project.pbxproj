@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		7FA927EE25890F6900A356AD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FC1B66225527D46009140A1 /* main.swift */; };
+		A213AC4B25EC2AD2009B9048 /* LEET-1111.swift in Sources */ = {isa = PBXBuildFile; fileRef = A293957225EAC0D200C0F519 /* LEET-1111.swift */; };
+		A213AC4D25EC2ADC009B9048 /* LEET-1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FBDBFC8258A675C00AE6D7B /* LEET-1.swift */; };
+		A213AC5025EC2D59009B9048 /* LEET-1773.swift in Sources */ = {isa = PBXBuildFile; fileRef = A213AC4F25EC2D59009B9048 /* LEET-1773.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -73,6 +76,7 @@
 		7FFD9E5C2565769200A8D10E /* BOJ2839.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ2839.swift; sourceTree = "<group>"; };
 		7FFEC44C255A6B1B000C77C0 /* BOJ1874.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ1874.swift; sourceTree = "<group>"; };
 		7FFEC451255BC0FD000C77C0 /* BOJ1966.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ1966.swift; sourceTree = "<group>"; };
+		A213AC4F25EC2D59009B9048 /* LEET-1773.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LEET-1773.swift"; sourceTree = "<group>"; };
 		A2381DDF25B8148400B2D36B /* BOJ-1697.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1697.swift"; sourceTree = "<group>"; };
 		A2381DE325B9C80700B2D36B /* BOJ-1963.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1963.swift"; sourceTree = "<group>"; };
 		A2381DE725BC0D1F00B2D36B /* BOJ-9019.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-9019.swift"; sourceTree = "<group>"; };
@@ -132,7 +136,9 @@
 				7F2DDC8025927C5A00489C6B /* PG-17682.swift */,
 				7F2DDC7C259269C200489C6B /* PG-42747.swift */,
 				7F450B64258A2041000EDA1A /* PG-42748.swift */,
+				A293957825EAD0DF00C0F519 /* PG-42839.swift */,
 				7FAF4E4E2589DB3F006A0E5B /* PG-42840.swift */,
+				A293957C25EBEFCE00C0F519 /* PG-42842.swift */,
 				7F2CC6C8259071D90018432A /* PG-42860.swift */,
 				7F7D9D5325993E7E00679AF2 /* PG-42861.swift */,
 				7FF1442A258F8D280069095F /* PG-43162.swift */,
@@ -144,8 +150,6 @@
 				A2381DFF25C46ACD00B2D36B /* PG-72410.swift */,
 				A293955025E6A37E00C0F519 /* PG-72411.swift */,
 				7F32222F256ECA920007D482 /* PG70129.swift */,
-				A293957825EAD0DF00C0F519 /* PG-42839.swift */,
-				A293957C25EBEFCE00C0F519 /* PG-42842.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -192,6 +196,7 @@
 			children = (
 				7FBDBFC8258A675C00AE6D7B /* LEET-1.swift */,
 				A293957225EAC0D200C0F519 /* LEET-1111.swift */,
+				A213AC4F25EC2D59009B9048 /* LEET-1773.swift */,
 			);
 			path = Leet;
 			sourceTree = "<group>";
@@ -291,7 +296,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A213AC4D25EC2ADC009B9048 /* LEET-1.swift in Sources */,
 				7FA927EE25890F6900A356AD /* main.swift in Sources */,
+				A213AC4B25EC2AD2009B9048 /* LEET-1111.swift in Sources */,
+				A213AC5025EC2D59009B9048 /* LEET-1773.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

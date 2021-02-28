@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution1111 {
+extension Solution {
     func maxDepthAfterSplit(_ seq: String) -> [Int] {
         var arr = seq.compactMap{ return "\($0)"}
         var stack: [Int] = []
