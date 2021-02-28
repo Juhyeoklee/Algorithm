@@ -1,16 +1,13 @@
 //
-//  main.swift
+//  PG-42842.swift
 //  SwiftAlgorithm
 //
-//  Created by 이주혁 on 2020/11/04.
+//  Created by 이주혁 on 2021/03/01.
 //
-
 
 import Foundation
 
 func solution(_ brown:Int, _ yellow:Int) -> [Int] {
-    // height > 2
-    // width >= height
     
     let halfBrown = brown / 2 + 1
     var height = 3
@@ -26,10 +23,5 @@ func solution(_ brown:Int, _ yellow:Int) -> [Int] {
         height += 1
         width = halfBrown - height + 1
     }
-//    print(width,height)
     return [width, height]
 }
-
-solution(10, 2)
-solution(8, 1)
-solution(24, 24)
