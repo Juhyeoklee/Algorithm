@@ -6,3 +6,7 @@
 //
 
 
+print(
+    Solution().divisorGame(3),
+    Solution().divisorGame(2)
+)
