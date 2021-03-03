@@ -6,7 +6,18 @@
 //
 
 
+
+//var sudoku: [[Int]] = [[Int]](repeating: [], count: 9)
+//
+//for i in 0..<9 {
+//    sudoku[i] = readLine()!.split(separator: " ").map{ return Int($0)! }
+//}
+//
+//
+//for s in sudoku {
+//    print(s)
+//}
+
 print(
-    Solution().divisorGame(3),
-    Solution().divisorGame(2)
+Solution().countNegatives([[4,3,2,-1],[3,2,1,-1],[1,1,-1,-2],[-1,-1,-2,-3]])
 )
