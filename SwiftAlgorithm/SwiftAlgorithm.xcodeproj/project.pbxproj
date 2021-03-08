@@ -106,6 +106,7 @@
 		A293957C25EBEFCE00C0F519 /* PG-42842.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-42842.swift"; sourceTree = "<group>"; };
 		A29C32A525EF7551008F1A7E /* LEET-1351.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LEET-1351.swift"; sourceTree = "<group>"; };
 		A29C32A825EF785B008F1A7E /* LEET-1337.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LEET-1337.swift"; sourceTree = "<group>"; };
+		A29C32AB25F69050008F1A7E /* PG-67258.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-67258.swift"; sourceTree = "<group>"; };
 		A29E04AD25A6037B00487088 /* PG-12926.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-12926.swift"; sourceTree = "<group>"; };
 		A29E04B125A753C000487088 /* PG-12947.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-12947.swift"; sourceTree = "<group>"; };
 		A29E04B625AA132500487088 /* BOJ-1107.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1107.swift"; sourceTree = "<group>"; };
@@ -154,6 +155,7 @@
 				A293957C25EBEFCE00C0F519 /* PG-42842.swift */,
 				7F2CC6C8259071D90018432A /* PG-42860.swift */,
 				7F7D9D5325993E7E00679AF2 /* PG-42861.swift */,
+				A29C32AB25F69050008F1A7E /* PG-67258.swift */,
 				7FF1442A258F8D280069095F /* PG-43162.swift */,
 				7F09A977259A948E001C53F2 /* PG-43238.swift */,
 				A213AC5825ED1D1B009B9048 /* PG-60059.swift */,
