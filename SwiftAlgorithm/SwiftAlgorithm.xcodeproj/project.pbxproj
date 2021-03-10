@@ -15,6 +15,7 @@
 		A213AC5625EC3532009B9048 /* LEET-1108.swift in Sources */ = {isa = PBXBuildFile; fileRef = A213AC5525EC3532009B9048 /* LEET-1108.swift */; };
 		A213AC5D25ED535F009B9048 /* LEET-1431.swift in Sources */ = {isa = PBXBuildFile; fileRef = A213AC5C25ED535F009B9048 /* LEET-1431.swift */; };
 		A213AC6125ED56B1009B9048 /* LEET-1025.swift in Sources */ = {isa = PBXBuildFile; fileRef = A213AC6025ED56B0009B9048 /* LEET-1025.swift */; };
+		A21F6F0125F8B70300518E3E /* PG-42895.swift in Sources */ = {isa = PBXBuildFile; fileRef = A21F6F0025F8B70300518E3E /* PG-42895.swift */; };
 		A29C32A625EF7551008F1A7E /* LEET-1351.swift in Sources */ = {isa = PBXBuildFile; fileRef = A29C32A525EF7551008F1A7E /* LEET-1351.swift */; };
 		A29C32A925EF785B008F1A7E /* LEET-1337.swift in Sources */ = {isa = PBXBuildFile; fileRef = A29C32A825EF785B008F1A7E /* LEET-1337.swift */; };
 /* End PBXBuildFile section */
@@ -88,6 +89,7 @@
 		A213AC5825ED1D1B009B9048 /* PG-60059.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-60059.swift"; sourceTree = "<group>"; };
 		A213AC5C25ED535F009B9048 /* LEET-1431.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LEET-1431.swift"; sourceTree = "<group>"; };
 		A213AC6025ED56B0009B9048 /* LEET-1025.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LEET-1025.swift"; sourceTree = "<group>"; };
+		A21F6F0025F8B70300518E3E /* PG-42895.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-42895.swift"; sourceTree = "<group>"; };
 		A2381DDF25B8148400B2D36B /* BOJ-1697.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1697.swift"; sourceTree = "<group>"; };
 		A2381DE325B9C80700B2D36B /* BOJ-1963.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1963.swift"; sourceTree = "<group>"; };
 		A2381DE725BC0D1F00B2D36B /* BOJ-9019.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-9019.swift"; sourceTree = "<group>"; };
@@ -155,6 +157,7 @@
 				A293957C25EBEFCE00C0F519 /* PG-42842.swift */,
 				7F2CC6C8259071D90018432A /* PG-42860.swift */,
 				7F7D9D5325993E7E00679AF2 /* PG-42861.swift */,
+				A21F6F0025F8B70300518E3E /* PG-42895.swift */,
 				A29C32AB25F69050008F1A7E /* PG-67258.swift */,
 				7FF1442A258F8D280069095F /* PG-43162.swift */,
 				7F09A977259A948E001C53F2 /* PG-43238.swift */,
@@ -323,6 +326,7 @@
 				A213AC6125ED56B1009B9048 /* LEET-1025.swift in Sources */,
 				A213AC4D25EC2ADC009B9048 /* LEET-1.swift in Sources */,
 				A213AC5D25ED535F009B9048 /* LEET-1431.swift in Sources */,
+				A21F6F0125F8B70300518E3E /* PG-42895.swift in Sources */,
 				7FA927EE25890F6900A356AD /* main.swift in Sources */,
 				A213AC5625EC3532009B9048 /* LEET-1108.swift in Sources */,
 				A29C32A925EF785B008F1A7E /* LEET-1337.swift in Sources */,
