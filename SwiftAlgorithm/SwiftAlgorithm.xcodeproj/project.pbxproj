@@ -16,6 +16,7 @@
 		A213AC5D25ED535F009B9048 /* LEET-1431.swift in Sources */ = {isa = PBXBuildFile; fileRef = A213AC5C25ED535F009B9048 /* LEET-1431.swift */; };
 		A213AC6125ED56B1009B9048 /* LEET-1025.swift in Sources */ = {isa = PBXBuildFile; fileRef = A213AC6025ED56B0009B9048 /* LEET-1025.swift */; };
 		A21F6F0125F8B70300518E3E /* PG-42895.swift in Sources */ = {isa = PBXBuildFile; fileRef = A21F6F0025F8B70300518E3E /* PG-42895.swift */; };
+		A21F6F0425F8D6F600518E3E /* LEET-315.swift in Sources */ = {isa = PBXBuildFile; fileRef = A21F6F0325F8D6F600518E3E /* LEET-315.swift */; };
 		A29C32A625EF7551008F1A7E /* LEET-1351.swift in Sources */ = {isa = PBXBuildFile; fileRef = A29C32A525EF7551008F1A7E /* LEET-1351.swift */; };
 		A29C32A925EF785B008F1A7E /* LEET-1337.swift in Sources */ = {isa = PBXBuildFile; fileRef = A29C32A825EF785B008F1A7E /* LEET-1337.swift */; };
 /* End PBXBuildFile section */
@@ -90,6 +91,8 @@
 		A213AC5C25ED535F009B9048 /* LEET-1431.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LEET-1431.swift"; sourceTree = "<group>"; };
 		A213AC6025ED56B0009B9048 /* LEET-1025.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LEET-1025.swift"; sourceTree = "<group>"; };
 		A21F6F0025F8B70300518E3E /* PG-42895.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PG-42895.swift"; sourceTree = "<group>"; };
+		A21F6F0325F8D6F600518E3E /* LEET-315.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "LEET-315.swift"; sourceTree = "<group>"; };
+		A21F6F0625F8F95500518E3E /* BOJ-2042.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2042.swift"; sourceTree = "<group>"; };
 		A2381DDF25B8148400B2D36B /* BOJ-1697.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1697.swift"; sourceTree = "<group>"; };
 		A2381DE325B9C80700B2D36B /* BOJ-1963.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1963.swift"; sourceTree = "<group>"; };
 		A2381DE725BC0D1F00B2D36B /* BOJ-9019.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-9019.swift"; sourceTree = "<group>"; };
@@ -206,6 +209,7 @@
 				7F322234257137EC0007D482 /* BOJ14501.swift */,
 				7FC1B66E255286E3009140A1 /* BOJ17413.swift */,
 				7FFD9E2D2563AA5800A8D10E /* PG12905.swift */,
+				A21F6F0625F8F95500518E3E /* BOJ-2042.swift */,
 			);
 			path = BOJ;
 			sourceTree = "<group>";
@@ -222,6 +226,7 @@
 				A213AC6025ED56B0009B9048 /* LEET-1025.swift */,
 				A29C32A525EF7551008F1A7E /* LEET-1351.swift */,
 				A29C32A825EF785B008F1A7E /* LEET-1337.swift */,
+				A21F6F0325F8D6F600518E3E /* LEET-315.swift */,
 			);
 			path = Leet;
 			sourceTree = "<group>";
@@ -326,6 +331,7 @@
 				A213AC6125ED56B1009B9048 /* LEET-1025.swift in Sources */,
 				A213AC4D25EC2ADC009B9048 /* LEET-1.swift in Sources */,
 				A213AC5D25ED535F009B9048 /* LEET-1431.swift in Sources */,
+				A21F6F0425F8D6F600518E3E /* LEET-315.swift in Sources */,
 				A21F6F0125F8B70300518E3E /* PG-42895.swift in Sources */,
 				7FA927EE25890F6900A356AD /* main.swift in Sources */,
 				A213AC5625EC3532009B9048 /* LEET-1108.swift in Sources */,

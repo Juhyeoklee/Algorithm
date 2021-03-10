@@ -9,3 +9,4 @@
 | 프로그래머스 |    [1차]캐시    | 2021-03-08 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-17680.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/17680) | 2018 KAKAO BLIND RECRUITMENT |
 | 프로그래머스 |    보석쇼핑    | 2021-03-09 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-67258.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/67258) | 2020 카카오 인턴십 |
 | 프로그래머스 |    N으로 표현    | 2021-03-10 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-42895.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/42895) | 동적계획법(DP) |
+| BOJ |    구간 합 구하기    | 2021-03-10 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-2042.swift)     |           [링크](https://www.acmicpc.net/problem/2042)           | 세그먼트 트리 |
