@@ -10,3 +10,4 @@
 | 프로그래머스 |    보석쇼핑    | 2021-03-09 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-67258.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/67258) | 2020 카카오 인턴십 |
 | 프로그래머스 |    N으로 표현    | 2021-03-10 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-42895.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/42895) | 동적계획법(DP) |
 | BOJ |    구간 합 구하기    | 2021-03-10 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-2042.swift)     |           [링크](https://www.acmicpc.net/problem/2042)           | 세그먼트 트리 |
+| BOJ |    숫자 카드    | 2021-03-13 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-10815.swift)     |           [링크](https://www.acmicpc.net/problem/10815)           | 정렬, 이분 탐색 |

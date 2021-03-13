@@ -9,7 +9,7 @@ import Foundation
 
 extension Solution {
     func defangIPaddr(_ address: String) -> String {
-        var tmpArr = address.split(separator: ".")
+        let tmpArr = address.split(separator: ".")
         
         return String(tmpArr[1..<tmpArr.count].reduce(tmpArr[0], {
             return $0 + "[.]" + $1
