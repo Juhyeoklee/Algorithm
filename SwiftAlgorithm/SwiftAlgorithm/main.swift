@@ -6,3 +6,5 @@
 //
 
 
+
+print(Solution().findPeakElement([1,2,3,1]))

@@ -12,3 +12,4 @@
 | BOJ |    구간 합 구하기    | 2021-03-10 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-2042.swift)     |           [링크](https://www.acmicpc.net/problem/2042)           | 세그먼트 트리 |
 | BOJ |    숫자 카드    | 2021-03-13 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/BOJ/BOJ-10815.swift)     |           [링크](https://www.acmicpc.net/problem/10815)           | 정렬, 이분 탐색 |
 | 프로그래머스 |    기둥과 보 설치    | 2021-03-14 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Programmers/PG-60061.swift) | [링크](https://programmers.co.kr/learn/courses/30/lessons/60061) | 2020 KAKAO BLIND RECRUITMENT |
+| Leet Code |        Find Peak Element       | 2021-03-17 | [소스](../../SwiftAlgorithm/SwiftAlgorithm/Leet/LEET-162.swift) | [링크](https://leetcode.com/problems/find-peak-element/) | Binary Search, Greedy |
