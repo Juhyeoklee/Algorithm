@@ -6,5 +6,11 @@
 //
 
 
+import Foundation
 
-print(Solution().findPeakElement([1,2,3,1]))
+
+func printTwoArr(_ arr: [[Int]]) {
+    for a in arr {
+        print(a)
+    }
+}
