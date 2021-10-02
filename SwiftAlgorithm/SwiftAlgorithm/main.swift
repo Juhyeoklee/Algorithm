@@ -8,9 +8,3 @@
 
 import Foundation
 
-
-func printTwoArr(_ arr: [[Int]]) {
-    for a in arr {
-        print(a)
-    }
-}
